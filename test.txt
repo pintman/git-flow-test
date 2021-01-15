@@ -1,3 +1,4 @@
 Ein erster Test
 feature 1
+feature 2 version a
 feature 2 version b
